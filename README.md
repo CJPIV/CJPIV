@@ -1,5 +1,4 @@
-hello.
-i am a polyglot and i do cool things with languages.
-this includes both real languages and programming languages.
-...although here you'll really only find the latter.
-C# is super cool.
+Здравствуйте всем
+ещё не понимаю то, что делаю...
+но это-неплохо потому, что только значит, что мне надо учить больше.
+и так, снова: здравствуйте
