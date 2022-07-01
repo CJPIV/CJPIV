@@ -4,4 +4,4 @@
 
 ---
 
-English / Español / Português (brasileiro) / Русский язык 
+English / Español / Português (Brasileiro) / Русский
